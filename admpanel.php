@@ -44,7 +44,7 @@ function viewdetections() {
 <input class="write" type="submit" value="Banlist" onClick="viewbans()">
 <input class="write" type="submit" value="Detections" onClick="viewdetections()">
 <br>
-<p>Submit a server message which everyone will see while remaining anonymous<br>
+<p class="highlight">Submit a server message which everyone will see while having a prefix<br>
 <form action="admmessage.php" method="post">
 Writing: <input class="write" type="text" name="server">
 <input class="write" type="submit" value="Send">

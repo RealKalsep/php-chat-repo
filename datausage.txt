@@ -1,4 +1,5 @@
 <p>Last updated: 27/05/2020</p>
+<h3>(Any hoster of this site can change them, these are the default ones.)</h3>
 <h2>What does this site store?</h2>
 <p>1. Chat and chat archives, but they can be cleared any time<br>
 2. User IDs, but they can be cleared any time<br>

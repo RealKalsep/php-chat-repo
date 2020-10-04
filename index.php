@@ -49,6 +49,6 @@ Admin Password: <input class="write" type="text" name="adminpass">
 <input class="write" type="submit" value="Admin">
 </form>
 </div>
-<p class="highlight">1.0.8_1 - build date: 09/12/20</p>
+<p class="highlight">1.0.8_02 - build date: 10/04/20</p>
 </body>
 </html>
