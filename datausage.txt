@@ -1,0 +1,5 @@
+<p>Last updated: 27/05/2020</p>
+<h2>What does this site store?</h2>
+<p>1. Chat and chat archives, but they can be cleared any time<br>
+2. User IDs, but they can be cleared any time<br>
+3. IPs because of user IDs and for our chat security. This applies for promotions, bans and page blockage. Your IP is hashed! They can be cleared any time.<br></p>

@@ -1,0 +1,65 @@
+html {
+    cursor: url('cursor.png'), auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    word-wrap: break-word;
+    min-height: 100%;
+    height: fit-content;
+}
+body {
+    font-family: "Lucida Console", Courier, monospace;
+    background-color: slategray;
+    background: slategray;
+    background: -moz-linear-gradient(180deg, slategray 0%, grey 100%);
+    background: -webkit-linear-gradient(180deg, slategray 0%, grey 100%);
+    background: linear-gradient(180deg, slategray 0%, grey 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = "#708090", endColorstr = "#808080", GradientType = 1);
+}
+h1 {
+    font-family: "Lucida Console", Courier, monospace;
+}
+p {
+    font-family: "Lucida Console", Courier, monospace;
+}
+input.write {
+    border: 2px inset whitesmoke;
+}
+input.write:hover {
+    border: 2px ridge lightslategrey;
+}
+input.write:focus {
+    border: 2px outset darkslategrey;
+}
+.spoiler {
+    background-color: black;
+    color: black;
+}
+.spoiler:hover {
+    background-color: lightgrey;
+    color: black;
+}
+.title {
+    background-color: aliceblue;
+    border: 5px dashed lightgrey;
+    margin: auto;
+}
+.chat {
+    background-color: aliceblue;
+    border: 3px outset lightgrey;
+}
+.code {
+    background-color: grey;
+    color: white;
+    border: 1px solid black;
+}
+.quote {
+    background-color: lightgrey;
+    color: black;
+    border: 1px solid grey;
+}
+.highlight {
+    background-color: lightgrey;
+    border: 2px outset darkgrey;
+}
