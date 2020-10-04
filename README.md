@@ -25,12 +25,10 @@ CONS:
 * You set the admin password in admcheck.php
 
 ### PHP-Chat on computer
-![PHPChat on computer](https://i.imgur.com/0eGar7Q.jpg)
-![PHPChat on computer](https://i.imgur.com/z3Fpsyb.jpg)
-Images are outdated. Remind me to do new ones.
+![PHPChat on computer](https://i.imgur.com/Ljgi69v.png)
+![PHPChat on computer](https://i.imgur.com/DWw17fN.png)
 
 ## Developer Info
 * You are free to fork.
-* When forking, please do actual changes (or tests, you are free to make it private), and credit me, Kalsep.
-* You are free to change the terms, however for every user's security please change the data usage if you change the logging system.
+* You are free to change the terms and data usage, but changing the data usage to match your chat data storing is recommended.
 * If you want to contribute, fork the repository, work on your fork and create a pull request.
