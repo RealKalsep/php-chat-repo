@@ -31,7 +31,7 @@ new messages above, old messages under
 <input class="write" type="submit" value="Refresh" onClick="refresh()">
 <input class="write" type="submit" value="Commands" onClick="commands()">
 <br>
-<p class="highlight">You need to refresh (there is no auto refresh right now)<br>At some points, someone might abuse the chat by scripts. Please report them.</p>
+<p class="highlight">You need to refresh (there is no auto refresh right now)<br>Sometimes, someone might abuse the chat by scripts. Please report them.</p>
 <form action="processing.php" method="post">
 Writing: <input class="write" type="text" name="chat">
 <input class="write" type="submit" value="Send">
