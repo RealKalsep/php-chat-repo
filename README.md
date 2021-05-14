@@ -1,8 +1,9 @@
 # php-chat
+## ATTENTION! This is still getting updated.
+### Please send me any bugs you find using the Issues tab.
+### Or create a pull request, of course.
 A PHP chat with Apache, no databases.
 Please report any issues you find!
-
-* Original project started on May 24th 2020. Previous repositories were privated.
 
 PROS:
 * IP hashing with sha256
