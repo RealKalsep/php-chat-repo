@@ -223,14 +223,9 @@
                         $body = str_replace("/red ", "<span style='color: red'>", $body);
                         $body = $body."</span>";
                     };
-
-                    if(strpos($body, "/green ") !== false) {
-                        $body = str_replace("/green ", "<span style='color: green'>", $body);
-                        $body = $body."</span>";
-                    };
-
-                    if(strpos($body, "/blue ") !== false) {
-                        $body = str_replace("/blue ", "<span style='color: blue'>", $body);
+                    
+                    if(strpos($body, "/orange ") !== false) {
+                        $body = str_replace("/orange ", "<span style='color: orange'>", $body);
                         $body = $body."</span>";
                     };
 
@@ -239,8 +234,23 @@
                         $body = $body."</span>";
                     };
 
-                    if(strpos($body, "/pink ") !== false) {
-                        $body = str_replace("/pink ", "<span style='color: pink'>", $body);
+                    if(strpos($body, "/lime ") !== false) {
+                        $body = str_replace("/lime ", "<span style='color: lime'>", $body);
+                        $body = $body."</span>";
+                    };
+
+                    if(strpos($body, "/green ") !== false) {
+                        $body = str_replace("/green ", "<span style='color: green'>", $body);
+                        $body = $body."</span>";
+                    };
+
+                    if(strpos($body, "/cyan ") !== false) {
+                        $body = str_replace("/cyan ", "<span style='color: cyan'>", $body);
+                        $body = $body."</span>";
+                    };
+
+                    if(strpos($body, "/blue ") !== false) {
+                        $body = str_replace("/blue ", "<span style='color: blue'>", $body);
                         $body = $body."</span>";
                     };
 
@@ -249,18 +259,18 @@
                         $body = $body."</span>";
                     };
 
-                    if(strpos($body, "/brown ") !== false) {
-                        $body = str_replace("/brown ", "<span style='color: brown'>", $body);
+                    if(strpos($body, "/violet ") !== false) {
+                        $body = str_replace("/violet ", "<span style='color: violet'>", $body);
+                        $body = $body."</div>";
+                    };
+
+                    if(strpos($body, "/pink ") !== false) {
+                        $body = str_replace("/pink ", "<span style='color: pink'>", $body);
                         $body = $body."</span>";
                     };
 
-                    if(strpos($body, "/orange ") !== false) {
-                        $body = str_replace("/orange ", "<span style='color: orange'>", $body);
-                        $body = $body."</span>";
-                    };
-
-                    if(strpos($body, "/black ") !== false) {
-                        $body = str_replace("/black ", "<span style='color: black'>", $body);
+                    if(strpos($body, "/white ") !== false) {
+                        $body = str_replace("/white ", "<span style='color: white'>", $body);
                         $body = $body."</span>";
                     };
 
@@ -274,14 +284,14 @@
                         $body = $body."</span>";
                     };
 
-                    if(strpos($body, "/white ") !== false) {
-                        $body = str_replace("/white ", "<span style='color: white'>", $body);
+                    if(strpos($body, "/brown ") !== false) {
+                        $body = str_replace("/brown ", "<span style='color: brown'>", $body);
                         $body = $body."</span>";
                     };
 
-                    if(strpos($body, "/violet ") !== false) {
-                        $body = str_replace("/violet ", "<span style='color: violet'>", $body);
-                        $body = $body."</div>";
+                    if(strpos($body, "/black ") !== false) {
+                        $body = str_replace("/black ", "<span style='color: black'>", $body);
+                        $body = $body."</span>";
                     };
 
                     if(strpos($body, "/date") !== false) {

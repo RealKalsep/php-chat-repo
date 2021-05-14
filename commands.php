@@ -28,18 +28,19 @@
             /babylenny ( ° ¿°) (/bebe)<br>
             <h2>Colors</h2>
             <div style='color: red'>/red</div><br>
-            <div style='color: green'>/green</div><br>
-            <div style='color: blue'>/blue</div><br>
-            <div style='color: yellow'>/yellow</div><br>
-            <div style='color: pink'>/pink</div><br>
-            <div style='color: purple'>/purple</div><br>
-            <div style='color: brown'>/brown</div><br>
             <div style='color: orange'>/orange</div><br>
-            <div style='color: black'>/black</div><br>
-            <div style='color: gray'>/gray</div><br>
-            <div style='color: grey'>/grey</div><br>
-            <div style='color: white'>/white</div><br>
+            <div style='color: yellow'>/yellow</div><br>
+            <div style='color: lime'>/lime</div><br>
+            <div style='color: green'>/green</div><br>
+            <div style='color: cyan'>/cyan</div><br>
+            <div style='color: blue'>/blue</div><br>
+            <div style='color: purple'>/purple</div><br>
             <div style='color: violet'>/violet</div><br>
+            <div style='color: pink'>/pink</div><br>
+            <div style='color: white'>/white</div><br>
+            <div style='color: gray'>/gray (/grey)</div><br>
+            <div style='color: brown'>/brown</div><br>
+            <div style='color: black'>/black</div><br>
             <h2>Misc</h2>
             /time<br>
             /date

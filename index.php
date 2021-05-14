@@ -49,6 +49,6 @@
             <input class="write" type="submit" value="Admin">
             </form>
         </div>
-        <p class="highlight">1.0.8_04 - build date: 02/02/21</p>
+        <p class="highlight">1.0.8_05 - build date: 05/14/21</p>
     </body>
 </html>
