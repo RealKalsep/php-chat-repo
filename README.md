@@ -5,6 +5,8 @@
 A PHP chat with Apache, no databases.
 Please report any issues you find!
 
+* Original project started on May 24th 2020. Previous repositories were privated.
+
 PROS:
 * IP hashing with sha256
 * IDs
